@@ -6,7 +6,7 @@ import json
 
 
 
-def decorator_progress_bar(func: function) -> function:
+def decorator_progress_bar(func):
     """Декоратор. Добавляет к функции прогресс бар."""
     def wrapper(*args, **kwargs):
         result = func(*args, **kwargs)
