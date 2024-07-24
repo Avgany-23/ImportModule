@@ -1,0 +1,44 @@
+{
+     "users": {
+          "Christopher 1234": {
+               "salary": 55000,
+               "country": "England",
+               "experience": 3
+          },
+          "Steven 1234": {
+               "salary": 55000,
+               "country": "England",
+               "experience": 1
+          },
+          "Quentin 1234": {
+               "salary": 40000,
+               "country": "USA",
+               "experience": 1
+          },
+          "Martin 1234": {
+               "salary": 84000,
+               "country": "Russia",
+               "experience": 3
+          },
+          "David 1234": {
+               "salary": 180000,
+               "country": "Russia",
+               "experience": 7
+          },
+          "James 1234": {
+               "salary": 130000,
+               "country": "Canada",
+               "experience": 2
+          },
+          "Jon 1234": {
+               "salary": null,
+               "country": null,
+               "experience": 0
+          },
+          "Good 0000": {
+               "salary": null,
+               "country": null,
+               "experience": 0
+          }
+     }
+}
